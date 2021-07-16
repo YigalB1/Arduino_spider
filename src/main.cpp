@@ -2,7 +2,7 @@
 
 int RED_LED  = 5; // red led
 int YELLOW_LED  = 6; // yellow led
-int GREEN_LED  = 7;
+int GREEN_LED  = 7; // Green Led 
 void setup() {
   
   pinMode(LED_BUILTIN, OUTPUT);
