@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 int RED_LED  = 5; // red led
-int YELLOW_LED  = 6;
+int YELLOW_LED  = 6; // yellow led
 int GREEN_LED  = 7;
 void setup() {
   
